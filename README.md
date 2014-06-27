@@ -26,5 +26,5 @@ where the number of completely observed cases (on all variables) is greater than
 
 8-pollutantmean.R :calculates the mean of a pollutant (sulfate or nitrate) across a specified list of monitors
 
-9- simple neural network algorithm to calculate the square root of the input 
+9-neural-net.R: simple neural network algorithm to calculate the square root of the input 
 
